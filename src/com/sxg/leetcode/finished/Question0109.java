@@ -1,4 +1,4 @@
-package com.sxg.leetcode;
+package com.sxg.leetcode.finished;
 
 import com.sxg.leetcode.entity.ListNode;
 import com.sxg.leetcode.entity.TreeNode;
