@@ -48,7 +48,7 @@ public class Question0102 {
         while (!queue.isEmpty()) {
             List<Integer> tempResult = new ArrayList<>();
             Queue<TreeNode> tempQueue = new LinkedList<>();
-            while(!queue.isEmpty()){
+            while (!queue.isEmpty()) {
                 TreeNode temp = queue.poll();
                 tempResult.add(temp.val);
                 if (temp.left != null) {
