@@ -1,4 +1,4 @@
-package com.sxg.leetcode;
+package com.sxg.leetcode.finished;
 
 import java.util.*;
 
