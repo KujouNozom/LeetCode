@@ -1,4 +1,4 @@
-package com.sxg.leetcode.finished;
+package com.sxg.leetcode.finished.no0151_0200;
 
 import java.util.Arrays;
 import java.util.Collections;

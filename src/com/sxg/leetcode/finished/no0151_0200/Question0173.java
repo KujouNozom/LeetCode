@@ -1,4 +1,4 @@
-package com.sxg.leetcode.finished;
+package com.sxg.leetcode.finished.no0151_0200;
 
 import com.sxg.leetcode.entity.TreeNode;
 
