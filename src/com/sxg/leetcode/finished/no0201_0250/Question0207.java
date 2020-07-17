@@ -1,9 +1,6 @@
-package com.sxg.leetcode.finished;
-
-import com.sxg.leetcode.entity.Node;
+package com.sxg.leetcode.finished.no0201_0250;
 
 import java.util.*;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
  * @ClassName: Question0207

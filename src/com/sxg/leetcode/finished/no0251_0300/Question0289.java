@@ -1,4 +1,4 @@
-package com.sxg.leetcode.finished;
+package com.sxg.leetcode.finished.no0251_0300;
 
 /**
  * @ClassName: Question0289

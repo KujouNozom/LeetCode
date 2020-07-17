@@ -1,4 +1,4 @@
-package com.sxg.leetcode.finished;
+package com.sxg.leetcode.finished.no0201_0250;
 
 import java.util.*;
 
