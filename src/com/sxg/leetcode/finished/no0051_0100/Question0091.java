@@ -66,7 +66,7 @@ public class Question0091 {
                 if (n == 0) {
                     if (1 <= m && m <= 2) {
                         fx = fx2;
-                    }else {
+                    } else {
                         return 0;
                     }
 

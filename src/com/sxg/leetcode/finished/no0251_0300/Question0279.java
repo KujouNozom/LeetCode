@@ -30,6 +30,7 @@ public class Question0279 {
         Question0279 demo = new Question0279();
         demo.numSquares(12);
     }
+
     public int numSquares(int n) {
         if (n == 0) {
             return 0;

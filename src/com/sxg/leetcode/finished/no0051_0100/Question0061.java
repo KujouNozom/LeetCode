@@ -42,7 +42,7 @@ public class Question0061 {
             temp = temp.next;
         }
 
-        if(k % count == 0){
+        if (k % count == 0) {
             return head;
         }
 

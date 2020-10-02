@@ -64,8 +64,8 @@ public class Question0093 {
 
     private void function(int preIndex, int pointCount) {
         if (pointCount == 0) {
-            if (check(datas.substring(preIndex+1))) {
-                currentResult.add(datas.substring(preIndex+1));
+            if (check(datas.substring(preIndex + 1))) {
+                currentResult.add(datas.substring(preIndex + 1));
                 result.add(String.join(".", currentResult));
                 currentResult.removeLast();
             }

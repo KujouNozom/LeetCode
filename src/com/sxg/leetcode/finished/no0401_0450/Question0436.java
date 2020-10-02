@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * @ClassName: Question0436
  * @Author: Su_N
- * @Date: 2020/10/2 20:32
+ * @Date: 2020/8/10 20:32
  * @Description: 436. 寻找右区间
  *
  * 给定一组区间，对于每一个区间 i，检查是否存在一个区间 j，它的起始点大于或等于区间 i 的终点，这可以称为 j 在 i 的“右侧”。

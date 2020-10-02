@@ -11,8 +11,8 @@ package com.sxg.leetcode.finished.no0401_0450;
  *
  * 注意:
  *
- *     每个数组中的元素不会超过 100
- *     数组的大小不会超过 200
+ * 每个数组中的元素不会超过 100
+ * 数组的大小不会超过 200
  *
  * 示例 1:
  *
@@ -59,7 +59,7 @@ public class Question0416 {
         for (int index = 1; index < length; index++) {
             for (int targetIndex = 0; targetIndex <= target; targetIndex++) {
                 if (nums[index] <= targetIndex) {
-                    dp[index][targetIndex] = dp[index - 1][targetIndex] || dp[index - 1][targetIndex- nums[index]];
+                    dp[index][targetIndex] = dp[index - 1][targetIndex] || dp[index - 1][targetIndex - nums[index]];
                 } else {
                     dp[index][targetIndex] = dp[index - 1][targetIndex];
                 }

@@ -80,7 +80,7 @@ import java.util.*;
  */
 public class Question0133 {
     public Node cloneGraph(Node node) {
-        if(node == null){
+        if (node == null) {
             return null;
         }
 

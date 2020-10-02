@@ -24,7 +24,7 @@ import java.util.List;
 public class Question0031 {
     public static void main(String[] args) {
         Question0031 demo = new Question0031();
-        int[] nums = {1,3,2};
+        int[] nums = {1, 3, 2};
         demo.nextPermutation(nums);
     }
 
@@ -46,8 +46,8 @@ public class Question0031 {
             Arrays.sort(nums);
         } else {
             index--;
-            int j = nums.length -1;
-            for(; j > index && nums[j] <= nums[index]; j --);
+            int j = nums.length - 1;
+            for (; j > index && nums[j] <= nums[index]; j--) ;
             int temp = nums[index];
             nums[index] = nums[j];
             nums[j] = temp;

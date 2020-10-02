@@ -3,7 +3,7 @@ package com.sxg.leetcode.finished.no0401_0450;
 /**
  * @ClassName: Question0423
  * @Author: Su_N
- * @Date: 2020/8/6 20:29
+ * @Date: 2020/8/5 20:29
  * @Description: 423. 从英文中重建数字
  *
  * 给定一个非空字符串，其中包含字母顺序打乱的英文单词表示的数字0-9。按升序输出原始的数字。

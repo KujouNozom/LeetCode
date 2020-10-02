@@ -19,7 +19,7 @@ public class Question0016 {
 
     public static void main(String[] args) {
         Question0016 demo = new Question0016();
-        demo.threeSumClosest(new int[]{0,1,2}, 3);
+        demo.threeSumClosest(new int[]{0, 1, 2}, 3);
     }
 
     public int threeSumClosest(int[] nums, int target) {

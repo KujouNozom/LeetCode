@@ -38,6 +38,7 @@ package com.sxg.leetcode.finished.no0401_0450;
  */
 public class Question0424 {
     private int aa;
+
     public static void main(String[] args) {
         System.out.println('A' - 0);
     }

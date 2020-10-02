@@ -6,8 +6,7 @@ import com.sxg.leetcode.entity.ListNode;
  * @ClassName: Question0024
  * @Author: Su_N
  * @Date: 2020/4/27 22:44
- * @Description:
- * 24. 两两交换链表中的节点
+ * @Description: 24. 两两交换链表中的节点
  * <p>
  * 给定一个链表，两两交换其中相邻的节点，并返回交换后的链表。
  * <p>

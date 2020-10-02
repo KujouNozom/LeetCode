@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * @ClassName: Question0435
  * @Author: Su_N
- * @Date: 2020/8/10 23:28
+ * @Date: 2020/8/8 23:28
  * @Description: 贪心算法
  *
  * 按照区间起点排序，前后两个区间记做A,B,三种情况。使用一个指针指向当前区间A

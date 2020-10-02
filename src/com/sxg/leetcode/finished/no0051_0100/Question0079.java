@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @ClassName: Question0079
  * @Author: Su_N
  * @Date: 2020/5/14 18:23
- * @Description: 回溯法,剪枝
+ * @Description: 回溯法, 剪枝
  * 79. 单词搜索
  * <p>
  * 给定一个二维网格和一个单词，找出该单词是否存在于网格中。
@@ -93,7 +93,7 @@ public class Question0079 {
                 allowedTemp[tempi][tempj] = true;
 
                 flag = function(allowedTemp, tempi, tempj, target + 1, board);
-                if(flag == true){
+                if (flag == true) {
                     break;
                 }
             }

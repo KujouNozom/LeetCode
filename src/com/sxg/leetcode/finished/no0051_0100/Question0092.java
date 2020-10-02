@@ -25,7 +25,7 @@ import com.sxg.leetcode.entity.ListNode;
  */
 public class Question0092 {
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        if(m == n){
+        if (m == n) {
             return head;
         }
 
@@ -40,7 +40,7 @@ public class Question0092 {
         ListNode pre = tail;
         ListNode cur = tail.next;
 
-        for (int index = m; index < n ; index++) {
+        for (int index = m; index < n; index++) {
             ListNode temp = cur.next;
             cur.next = pre;
             pre = cur;
@@ -50,7 +50,7 @@ public class Question0092 {
         tempHead.next = pre;
         tail.next = cur;
 
-        if(m == 1){
+        if (m == 1) {
             return tempHead.next;
         }
         return head;

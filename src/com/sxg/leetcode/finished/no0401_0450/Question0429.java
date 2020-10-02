@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @ClassName: Question0099
  * @Author: Su_N
- * @Date: 2020/8/8 20:00
+ * @Date: 2020/8/7 20:00
  * @Description: 使用一个队列
  *
  * 429. N叉树的层序遍历

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @ClassName: Question0005
  * @Author: Su_N
  * @Date: 2020/4/26 22:58
- * @Description:  动态规划
+ * @Description: 动态规划
  * 5. 最长回文子串
  * <p>
  * 给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。

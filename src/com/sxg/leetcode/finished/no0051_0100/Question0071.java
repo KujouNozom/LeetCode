@@ -1,6 +1,6 @@
 package com.sxg.leetcode.finished.no0051_0100;
 
-import java.util.*;
+import java.util.Stack;
 
 /**
  * @ClassName: Question0071

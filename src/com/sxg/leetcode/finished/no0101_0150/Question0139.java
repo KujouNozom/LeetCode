@@ -59,7 +59,7 @@ public class Question0139 {
 
         Set<String> dict = new HashSet<>(wordDict);
         int length = s.length();
-        boolean[] dp = new boolean[length+1];
+        boolean[] dp = new boolean[length + 1];
         dp[0] = true;
 
         for (int i = 1; i <= length; i++) {

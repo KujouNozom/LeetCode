@@ -3,7 +3,7 @@ package com.sxg.leetcode.finished;
 /**
  * @ClassName: Question0696
  * @Author: Su_N
- * @Date: 2020/8/20 20:47
+ * @Date: 2020/8/28 20:47
  * @Description: 696. 计数二进制子串
  *
  * 给定一个字符串 s，计算具有相同数量0和1的非空(连续)子字符串的数量，并且这些子字符串中的所有0和所有1都是组合在一起的。

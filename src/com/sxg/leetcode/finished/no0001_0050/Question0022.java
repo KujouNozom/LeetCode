@@ -40,11 +40,11 @@ public class Question0022 {
         }
 
         if (leftCount != 0) {
-            function(result, current + "(", leftCount-1, rightCount);
+            function(result, current + "(", leftCount - 1, rightCount);
         }
 
         if (rightCount != 0 && leftCount < rightCount) {
-            function(result, current + ")", leftCount, rightCount-1);
+            function(result, current + ")", leftCount, rightCount - 1);
         }
     }
 }

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @ClassName: Question0442
  * @Author: Su_N
- * @Date: 2020/7/28 20:40
+ * @Date: 2020/8/11 20:40
  * @Description: 442. 数组中重复的数据
  *
  * 给定一个整数数组 a，其中1 ≤ a[i] ≤ n （n为数组长度）, 其中有些元素出现两次而其他元素出现一次。
