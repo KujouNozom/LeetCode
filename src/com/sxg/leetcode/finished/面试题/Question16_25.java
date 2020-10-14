@@ -1,6 +1,7 @@
 package com.sxg.leetcode.finished.面试题;
 
-import java.util.*;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 /**
  * @ClassName: com.sxg.leetcode.finished.面试题.Question16_25
