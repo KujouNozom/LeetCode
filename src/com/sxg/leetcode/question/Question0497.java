@@ -46,12 +46,6 @@ import java.util.Random;
  * 输入是两个列表：调用的子例程及其参数。Solution 的构造函数有一个参数，即矩形数组 rects。pick 没有参数。参数总是用列表包装的，即使没有也是如此。
  */
 public class Question0497 {
-    public static void main(String[] args) {
-        Solution solution = new Solution(new int[][]{{-2, -2, -1, -1}, {1, 0, 3, 0}});
-        solution.pick();
-    }
-
-
     static class Solution {
         private int[] sumList;
 

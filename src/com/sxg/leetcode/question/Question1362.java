@@ -33,17 +33,11 @@ package com.sxg.leetcode.question;
  * 输出：[40,25]
  */
 public class Question1362 {
-    public static void main(String[] args) {
-        int i = (int) Math.ceil(Math.sqrt(5));
-        int j = (int) Math.floor(Math.sqrt(5));
-        System.out.println();
-    }
-
     public int[] closestDivisors(int num) {
-        int i = (int) Math.sqrt(num) + 1;
+        int i = (int) Math.sqrt(num + 2);
         for (int index = i; index >= 0; index--) {
             if ((num + 1) % index == 0) {
-                return new int[]{index, (num + 2) / index};
+                return new int[]{index, (num + 1) / index};
             }
             if ((num + 2) % index == 0) {
                 return new int[]{index, (num + 2) / index};
