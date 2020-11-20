@@ -50,8 +50,9 @@ package com.sxg.leetcode.question.date2020_10;
  */
 public class Question1254 {
     public static void main(String[] args) {
-        new Question1254().closedIsland(new int[][]{{1,1,1},{1,0,1},{0,1,0}});
+        new Question1254().closedIsland(new int[][]{{1, 1, 1}, {1, 0, 1}, {0, 1, 0}});
     }
+
     private int[] fwi = new int[]{0, 1, 0, -1};
 
     private int[] fwj = new int[]{1, 0, -1, 0};

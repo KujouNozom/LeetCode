@@ -28,9 +28,9 @@ package com.sxg.leetcode.question.date2020_10;
  *
  * 提示：
  *
- *     1 <= X <= customers.length == grumpy.length <= 20000
- *     0 <= customers[i] <= 1000
- *     0 <= grumpy[i] <= 1
+ * 1 <= X <= customers.length == grumpy.length <= 20000
+ * 0 <= customers[i] <= 1000
+ * 0 <= grumpy[i] <= 1
  */
 public class Question1052 {
 }
