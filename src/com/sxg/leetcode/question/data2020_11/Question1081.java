@@ -1,9 +1,9 @@
-package com.sxg.leetcode.question;
+package com.sxg.leetcode.question.data2020_11;
 
 import java.util.*;
 
 /**
- * @ClassName: com.sxg.leetcode.question.Question1081
+ * @ClassName: com.sxg.leetcode.question.data2020_11.Question1081
  * @Author: Su_N
  * @Date: 2020/11/4 22:01
  * @Description: 堆栈

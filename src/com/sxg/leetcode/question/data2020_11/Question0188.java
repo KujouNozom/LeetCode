@@ -1,7 +1,7 @@
-package com.sxg.leetcode.question;
+package com.sxg.leetcode.question.data2020_11;
 
 /**
- * @ClassName: com.sxg.leetcode.question.Question0188
+ * @ClassName: com.sxg.leetcode.question.data2020_11.Question0188
  * @Author: Su_N
  * @Date: 2020/11/2 22:54
  * @Description: 动态规划

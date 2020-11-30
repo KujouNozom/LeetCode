@@ -1,7 +1,7 @@
-package com.sxg.leetcode.question;
+package com.sxg.leetcode.question.data2020_11;
 
 /**
- * @ClassName: com.sxg.leetcode.question.Question1252
+ * @ClassName: com.sxg.leetcode.question.data2020_11.Question1252
  * @Author: Su_N
  * @Date: 2020/11/4 22:10
  * @Description: 统计每个行和每个列出现的次数，然后遍历矩阵每个位置[i,j]，i的次数+j的次数是奇数的话，这个位置就是奇数

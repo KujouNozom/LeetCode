@@ -1,9 +1,9 @@
-package com.sxg.leetcode.question;
+package com.sxg.leetcode.question.data2020_11;
 
 import java.util.*;
 
 /**
- * @ClassName: com.sxg.leetcode.question.Question0140
+ * @ClassName: com.sxg.leetcode.question.data2020_11.Question0140
  * @Author: Su_N
  * @Date: 2020/11/1 19:42
  * @Description: 动态规划，剪枝

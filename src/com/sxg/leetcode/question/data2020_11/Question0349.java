@@ -1,4 +1,4 @@
-package com.sxg.leetcode.question;
+package com.sxg.leetcode.question.data2020_11;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
