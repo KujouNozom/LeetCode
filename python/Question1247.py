@@ -26,7 +26,7 @@
 # 示例 4：
 # 输入：s1 = "xxyyxyxyxx", s2 = "xyyxyxxxyx"
 # 输出：4
-# 
+#
 # 提示：
 #     1 <= s1.length, s2.length <= 1000
 #     s1, s2 只包含 'x' 或 'y'。
