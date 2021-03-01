@@ -1,4 +1,4 @@
-package com.sxg.leetcode;
+package com.sxg.leetcode.question;
 
 import java.util.HashSet;
 import java.util.Set;
