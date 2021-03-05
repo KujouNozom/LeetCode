@@ -9,7 +9,7 @@ package com.sxg.leetcode.question;
 public class Question0338 {
     public int[] countBits(int num) {
         if (num == 0) {
-            return new int[]{0};
+            return new int[] {0};
         }
 
         int[] ans = new int[num + 1];

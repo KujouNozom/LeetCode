@@ -6,7 +6,7 @@ import java.util.*;
  * @ClassName: Questiono9696
  * @Author: Su_N
  * @Date: 2021/3/3 0:12
- * @Description: 969. 煎饼排序  排序
+ * @Description: 969. 煎饼排序 排序
  */
 public class Question0969 {
     public List<Integer> pancakeSort(int[] arr) {

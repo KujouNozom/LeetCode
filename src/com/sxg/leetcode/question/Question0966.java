@@ -9,7 +9,7 @@ import java.util.Set;
  * @ClassName: Question0966
  * @Author: Su_N
  * @Date: 2021/3/3 22:40
- * @Description: 966. 元音拼写检查器   [Hash]
+ * @Description: 966. 元音拼写检查器 [Hash]
  */
 public class Question0966 {
     private Set<String> srSet;
