@@ -1,4 +1,4 @@
-package com.sxg.leetcode.question.data2020_0x.no0101_0150;
+package com.sxg.leetcode.question.data2020_05;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -9,25 +9,7 @@ import java.util.List;
  * @ClassName: Question0131
  * @Author: Su_N
  * @Date: 2020/5/31 8:57
- * @Description: 回溯，动态规划
- * 可以使用回溯，剪枝的方法
- * 但是每次都要计算当前子串是不是回文，时间复杂度较高
- * 可以使用求回文子串的动态规划（0005）先求出所有的子串，然后剪枝的时候可以直接判断是不是回文串
- * <p>
- * 131. 分割回文串
- * <p>
- * 给定一个字符串 s，将 s 分割成一些子串，使每个子串都是回文串。
- * <p>
- * 返回 s 所有可能的分割方案。
- * <p>
- * 示例:
- * <p>
- * 输入: "aab"
- * 输出:
- * [
- * ["aa","b"],
- * ["a","a","b"]
- * ]
+ * @Description: 131. 分割回文串 [回溯，动态规划]
  */
 public class Question0131 {
     private String data;
