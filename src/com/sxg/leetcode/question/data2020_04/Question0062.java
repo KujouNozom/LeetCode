@@ -1,4 +1,4 @@
-package com.sxg.leetcode.question.data2020_0x.no0051_0100;
+package com.sxg.leetcode.question.data2020_04;
 
 /**
  * @ClassName: Question0062
